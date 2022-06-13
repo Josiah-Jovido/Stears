@@ -1,6 +1,3 @@
-![Logo](https://i.im.ge/2022/06/12/rHNFzJ.png)
-
-
 # Stears Business
 
 This repo contains Stears test business intelligence report.
